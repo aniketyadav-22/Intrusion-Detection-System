@@ -1,12 +1,7 @@
 Intrusion Detection System (IDS) — Streamlit + Machine Learning
 
-
-
-
-
 A lightweight, production-ready Intrusion Detection System built with Streamlit for interactive analysis and scikit-learn / PyTorch for ML. It supports training and inference on tabular IDS datasets (KDD Cup ’99, NSL-KDD, and optionally CIC-IDS-2017), real-time CSV uploads, and clear visualizations for security monitoring.
 
-<img alt="demo" src="🔧/assets/demo.gif" width="800"/>
 ✨ Features
 One-click web app with Streamlit for training, evaluation, and live predictions
 
@@ -23,6 +18,4 @@ Metrics dashboard: accuracy, precision/recall/F1 (macro & per-class), ROC-AUC, c
 Batch prediction: upload CSV with raw features, get labeled outputs
 
 Reproducible training scripts + saved artifacts (.pkl / .pt)
-
-Dockerfile for portable deployment
 
